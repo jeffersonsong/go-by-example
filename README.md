@@ -1,0 +1,99 @@
+# Go by Example
+https://gobyexample.com/
+
+- Hello World
+- Variables
+    - Values
+    - Variables
+    - Constants
+- Control structures
+    - For
+    - If/Else
+    - Switch
+- Arrays, Slices and Maps
+    - Arrays
+    - Slices
+    - Maps
+    - Range
+- Functions
+    - Functions
+    - Multiple Return Values
+    - Variadic Functions
+    - Closures
+    - Recursion
+    - Defer
+    - Panic
+        - Panic
+        - Recover
+- Pointers
+- Structs
+    - Structs
+    - Methods
+    - Interfaces
+    - Struct Embedding
+- Generics
+- Errors
+- concurrency
+    - Goroutines
+        - Goroutines
+        - WaitGroups
+        - Atomic Counters
+        - Mutexes    
+    - Channels
+        - Channels
+        - Channel Buffering
+        - Channel Synchronization
+        - Channel Directions
+        - Select
+        - Timeouts
+        - Non-Blocking Channel Operations
+        - Closing Channels
+        - Range over Channels
+        - Timers
+        - Tickers
+        - Worker Pools
+        - Rate Limiting
+        - Stateful Goroutines
+- Sorting
+    - Sorting
+    - Sorting by Functions
+- String
+    - Strings and Runes
+    - String Functions
+    - String Formatting
+    - Text Templates
+    - Regular Expressions
+    - JSON
+    - XML
+- Time
+    - Time
+    - Epoch
+    - Time Formatting / Parsing
+- Random Numbers
+- Number Parsing
+- URL Parsing
+- SHA256 Hashes
+- Base64 Encoding
+- File IO
+    - Reading Files
+    - Writing Files
+    - Line Filters
+    - File Paths
+    - Directories
+    - Temporary Files and Directories
+    - Embed Directive
+- Testing and Benchmarking
+- Command-Line
+    - Command-Line Arguments
+    - Command-Line Flags
+    - Command-Line Subcommands
+- Environment Variables
+- HTTP
+    - HTTP Client
+    - HTTP Server
+    - Context
+- Process
+    - Spawning Processes
+    - Exec'ing Processes
+    - Signals
+    - Exit
